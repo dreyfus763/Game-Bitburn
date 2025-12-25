@@ -1,0 +1,13 @@
+/** @param {NS} ns */
+export async function main(ns) {
+//code for weaken
+    while (true) {
+        await ns.weaken("n00dles"); 
+//code for hack
+    while (true){
+        await ns.hack("n00dles");
+//they are separeted because cant run at same time
+    }
+    }
+    }
+    // the name is variable, like here "n00dles"
